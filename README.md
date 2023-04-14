@@ -8,6 +8,8 @@
 [![codecov](https://codecov.io/gh/sourcegraph/conc/branch/main/graph/badge.svg?token=MQZTEA1QWT)](https://codecov.io/gh/sourcegraph/conc)
 [![Discord](https://img.shields.io/badge/discord-chat-%235765F2)](https://discord.gg/bvXQXmtRjN)
 
+test
+
 `conc` is your toolbelt for structured concurrency in go, making common tasks
 easier and safer.
 
